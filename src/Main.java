@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Kal");
 
+        // initialise two student classes
         Student Kal = new Student(21, 85.1, true, 4, "Irish");
         Student BadKal = new Student(21, 41, false, 4, "Indian");
 
